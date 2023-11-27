@@ -1,0 +1,48 @@
+    1  git --version
+    2  pwd
+    3  ls
+    4  mkdir test-app
+    5  mkdir test_app
+    6  mkdir rahul_app
+    7  cd Excel.lnk
+    8  cd downloads
+    9  ls
+   10  cd rahul_app
+   11  pwd
+   12  cd ..
+   13  ls
+   14  ls
+   15  cd new folder
+   16  cd "new folder"
+   17  mkdir "new folder 1"
+   18  cd ..
+   19  clear
+   20  mkdir test
+   21  ls
+   22  cd test
+   23  mkdir f1
+   24  mkdir a s d f j 
+   25  mkdir s
+   26  rmdir s
+   27  rmdir j f1 f d a 
+   28  mkdir j
+   29  cd j
+   30  mkdir s
+   31  rmdir j
+   32  rm-r j
+   33  rm -r j
+   34  cd ..
+   35  rmdir j
+   36  rm -r j
+   37  touch f1.txt f2.py f3.sql
+   38  cat f1
+   39  cat f1.txt
+   40  nano f2.py
+   41  nano f2.py
+   42  cat f2.py
+   43  p3.py
+   44  mkdir f1
+   45  mkdir file1
+   46  cd file1
+   47  command.txt
+   48  history >> command.txt
